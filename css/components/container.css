@@ -1,0 +1,17 @@
+.container {
+  margin: 0 auto;
+  text-align: center;
+  width: 900px;
+}
+
+.container-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-content {
+  padding: 48px 8px;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.1);
+  margin: 8px 36px 36px 36px;
+  font-size: 14px;
+}

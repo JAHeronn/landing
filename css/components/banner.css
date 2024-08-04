@@ -1,0 +1,23 @@
+.banner {
+  height: 85vh;
+  position: relative;
+  background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25) ), url('https://images.unsplash.com/photo-1483137140003-ae073b395549?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-position: 100% 50%;
+}
+
+#banner-content h1 {
+  margin-top: 0;
+}
+
+#banner-content {
+  position: absolute;
+  text-align: left;
+  top: 40%;
+  left: 20%;
+  color: aliceblue;
+}
+
+#banner-content p {
+  font-size: 18px;
+  font-weight: light;
+}
